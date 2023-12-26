@@ -18,8 +18,8 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "60142568861",
   SUDO_NUMBERS : "60142568861",
-  OWNER_NAME: "『 ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶ 』",
-  BOT_NAME : "『 ⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:) 』",
+  OWNER_NAME: "『 *˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶* 』",
+  BOT_NAME : "『*˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:*』",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://telegra.ph/file/f8164a34350f4b5b73595.jpg',
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : "true",
-  OWNER_REACT : '🤵‍♂️',
+  OWNER_REACT : '🧢',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
