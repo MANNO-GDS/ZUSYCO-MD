@@ -19,7 +19,7 @@ module.exports = {
   OWNER_NUMBER: "60142568861",
   SUDO_NUMBERS : "60142568861",
   OWNER_NAME: "『 *˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶* 』",
-  BOT_NAME : "『*˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:*』",
+  BOT_NAME : "『 *˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:* 』",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://telegra.ph/file/f8164a34350f4b5b73595.jpg',
