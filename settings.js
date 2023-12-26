@@ -10,21 +10,21 @@
 
 
 
-Project Name : MANNO - MD
-Creator : @MANNO , @MR-ARMAN-
+Project Name : ZUSYCO - MD
+Creator : @darkmakerofc , @mr-nima-x 
 
 */
 
 module.exports = {
-  OWNER_NUMBER: "60142568861",
-  SUDO_NUMBERS : "60142568861",
-  OWNER_NAME: "『 *⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:)* 』",
-  BOT_NAME : "『 @MANNO-MD 』",
+  OWNER_NUMBER: "94715166712",
+  SUDO_NUMBERS : "94715166712,94719574492",
+  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
+  BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://telegra.ph/file/f8164a34350f4b5b73595.jpg',
-    WELCOME: 'https://telegra.ph/file/f8164a34350f4b5b73595.jpg',
-    GOODBYE: 'https://telegra.ph/file/f8164a34350f4b5b73595.jpg'
+    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
+    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
+    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
         WELCOME_MESSAGE : false,
@@ -32,11 +32,11 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "private ",
+  WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '🄼 ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:) ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[*🫀🄼 ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶ ᴡᴀ ʙᴏᴛ ᴛᴇᴀᴍ*]',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
+  STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -48,14 +48,14 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : false,
+     ALL_MESSAGES : true,
      ONLY_COMMANDS : false,
      STATUS : false,
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : "true" 
-  OWNER_REACT : '🧢',
+  AUTO_REACT : false,
+  OWNER_REACT : '🤵‍♂️',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
