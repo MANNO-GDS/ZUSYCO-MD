@@ -10,8 +10,8 @@
 
 
 
-Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Project Name : *⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:)*
+Creator : *@Arman246* , *⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:)* 
 
 */
 
@@ -42,7 +42,7 @@ module.exports = {
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : false,
   ANTI_LINK_KICK : false,
-  MAX_SIZE : 100,
+  MAX_SIZE : 300,
   MOROCCO_NUMBERS : {
         BLOCK : false,
         NOT_WORKING : false,
