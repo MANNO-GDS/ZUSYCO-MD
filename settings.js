@@ -17,7 +17,7 @@ Creator : *@Arman246* , *⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:)*
 
 module.exports = {
   OWNER_NUMBER: "60142568861",
-  SUDO_NUMBERS : "60142568861",
+  SUDO_NUMBERS : "923020786007",
   OWNER_NAME: "『 *˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶* 』",
   BOT_NAME : "『 *˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:* 』",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -32,8 +32,8 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "private",
-  WORK_MODE : "onlygroups",
+  WORK_TYPE : "public",
+  WORK_MODE : "groups & inbox",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '*🄼 ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶ ᴍᴅ ʙᴏᴛ*',
   STICKER_PACK : '[ *🫀🄼 ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶ ᴡᴀ ʙᴏᴛ ᴛᴇᴀᴍ* ]',
@@ -48,7 +48,7 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
+     ALL_MESSAGES : false,
      ONLY_COMMANDS : false,
      STATUS : false,
   },
