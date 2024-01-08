@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "groups & inbox",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '*🄼 ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶ ᴍᴅ ʙᴏᴛ*',
+  CAPTION : '*🄼 ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶ ᴍᴅ ʙᴏᴛ +60142568861*',
   STICKER_PACK : '[ *🫀🄼 ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶ ᴡᴀ ʙᴏᴛ ᴛᴇᴀᴍ* ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
