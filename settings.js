@@ -49,8 +49,8 @@ module.exports = {
   },
   READ : {
      ALL_MESSAGES : false,
-     ONLY_COMMANDS : false,
-     STATUS : false,
+     ONLY_COMMANDS : true,
+     STATUS : true,
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
