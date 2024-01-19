@@ -22,7 +22,7 @@ module.exports = {
   BOT_NAME : "『 *˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:* 』",
   ZUSYCO_FILE : "ZUSYCO-MD",
   LOGOS: {
-    ALIVE: 'https://telegra.ph/file/f8164a34350f4b5b73595.jpg',
+    ALIVE: 'https://telegra.ph/file/67d6703ba940acc9b1097.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
