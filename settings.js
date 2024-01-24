@@ -16,8 +16,8 @@ Creator : *@Arman246* , *⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:)*
 */
 
 module.exports = {
-  OWNER_NUMBER: "60142568861",
-  SUDO_NUMBERS : "923020786007",
+  OWNER_NUMBER: "923097045246",
+  SUDO_NUMBERS : "923097045246",
   OWNER_NAME: "『 *˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶* 』",
   BOT_NAME : "『 *˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:* 』",
   ZUSYCO_FILE : "ZUSYCO-QR",
