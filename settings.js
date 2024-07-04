@@ -18,11 +18,11 @@ Creator : *@Arman246* , *⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:)*
 module.exports = {
   OWNER_NUMBER: "923097045246",
   SUDO_NUMBERS : "923097045246",
-  OWNER_NAME: "『 *˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶* 』",
-  BOT_NAME : "『 *˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:* 』",
+  OWNER_NAME: "*『 ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶ 』*",
+  BOT_NAME : "*『 ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:』*",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.imgur.com/bUltTmD.jpg',
+    ALIVE: 'https://i.imgur.com/vSsJ896.jpeg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -35,8 +35,8 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "groups & inbox",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '*🄼 ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶ ᴍᴅ ʙᴏᴛ +60142568861*',
-  STICKER_PACK : '[ *🫀🄼 ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶ ᴡᴀ ʙᴏᴛ ᴛᴇᴀᴍ* ]',
+  CAPTION : '*🄼 ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶ ᴍᴅ ʙᴏᴛ*',
+  STICKER_PACK : '[ 🫀🄼 ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼²⁴⁶ ᴡᴀ ʙᴏᴛ ᴛᴇᴀᴍ ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
